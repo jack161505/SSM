@@ -1,0 +1,5 @@
+com\jack\ssmmodules\dao\SecUserMapper.class
+com\jack\ssmmodules\dao\SecUserRoleMapper.class
+com\jack\ssmmodules\dao\SecRoleMapper.class
+com\jack\ssmmodules\dao\SecPermissionMapper.class
+com\jack\ssmmodules\dao\SecRolePermissionMapper.class
